@@ -1,0 +1,3 @@
+name: pulumi-aws-ts-appsync
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
